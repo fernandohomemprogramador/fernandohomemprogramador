@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @fernandohomemprogramador
-- 👀 I’m interested in ...DINHERO
-- 🌱 I’m currently learning ... GANHAR DINHERO
-- 💞️ I’m looking to collaborate on ... INFLAÇÃO
-- 📫 How to reach me ... ME DANDO DINHERO
+- :trollface: Hi, I’m :trollface:
+- :trollface: I’m interested in ...:trollface:
+- :trollface: I’m currently learning ... :trollface:
+- :trollface:I’m looking to collaborate on ... :trollface:
+- :trollface:How to reach me ... :trollface:
 
 <!---
 fernandohomemprogramador/fernandohomemprogramador is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
